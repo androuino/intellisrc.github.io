@@ -1,0 +1,8 @@
+div#main {
+    height: 100%;
+    margin: 1% 1% 1% 1%; /* top, right, bottom, left */
+    padding: 1% 1% 1% 1%; /* top, right, bottom, left */
+    background: #28313b;
+    background: linear-gradient(180deg, #28313b 0%, #485461 74%, rgba(158,158,158,1) 100%);
+    border-radius: 10px;
+}
