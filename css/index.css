@@ -8,5 +8,13 @@ html, body {
     width: 100%;
     height: 100%;
     text-align: center;
+}
+
+body {
+    background: url("../assets/mainBg.jpg") no-repeat center center fixed;
+    background-size: cover;
     background-color: #28313b;
+    height: auto;
+    max-width: 100%;
+    position: absolute;
 }
