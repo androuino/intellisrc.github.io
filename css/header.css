@@ -1,6 +1,4 @@
 img#talkLogo {
-    display: inline-block;
-    float: left;
     height: auto;
     max-width: 50%;
     width: auto\9; /* IE8 */
@@ -9,5 +7,5 @@ img#talkLogo {
 h1#talkTitle {
     color: rgb(255, 0, 0);
     font-size: 80px;
-    color: #ff8000;
+    color: #03A9F4;
 }

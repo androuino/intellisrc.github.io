@@ -11,10 +11,9 @@ html, body {
 }
 
 body {
-    background: url("../assets/mainBg.jpg") no-repeat center center fixed;
+    background: url("../assets/bg1.jpg") no-repeat center center fixed;
     background-size: cover;
     background-color: #28313b;
     height: auto;
     max-width: 100%;
-    position: absolute;
 }
